@@ -15,3 +15,15 @@
     --dark-blue: hsl(228, 56%, 26%);
     --very-dark-blue: hsl(229, 57%, 11%);
 }
+
+body {
+    background-color: var(--very-dark-blue);
+    background-image: url(bg-desktop.png);
+    background-repeat: no-repeat;
+    font-size: 14px;
+}
+
+.fylo {
+    margin: auto;
+    width: 30%;
+}
